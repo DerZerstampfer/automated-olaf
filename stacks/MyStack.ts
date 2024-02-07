@@ -48,13 +48,13 @@ export function API({ stack }: StackContext) {
 
   const api = new Api(stack, "API", {
     routes: {
-      "GET /tweet": {
-        function: {
-          handler: "packages/functions/src/tweet.handler",
-          timeout: "5 minute",
-          bind: binds,
-        },
-      },
+      // "GET /tweet": {
+      //   function: {
+      //     handler: "packages/functions/src/tweet.handler",
+      //     timeout: "5 minute",
+      //     bind: binds,
+      //   },
+      // },
       "GET /auth": {
         function: {
           handler: "packages/functions/src/auth.handler",
