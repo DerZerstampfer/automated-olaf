@@ -19,10 +19,16 @@ export const handler = ApiHandler(async (_evt) => {
   await redis.set("accessToken", accessToken);
   await redis.set("refreshToken", newRefreshToken);
 
+  const today = new Date();
+
   const tpResponse = await fetchTeampilot({
     launchpadSlugId: Config.OLAF_TEAMPILOT_LAUNCHPAD_SLUG,
-    message:
-      "Think of a topic, write the tweet, test the tweet and generate the image",
+    message: `Think of a topic, write the tweet, test the tweet and generate the image. Today is ${today.toLocaleString(
+      "en-US",
+      { weekday: "long" }
+    )} the ${today.getDate()}th of ${today.toLocaleString("en-US", {
+      month: "long",
+    })}`,
     schema: z
       .object({
         response: z.object({
