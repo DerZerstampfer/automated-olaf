@@ -1,6 +1,6 @@
 # Olaf Explains
 
-Welcome to the GitHub repository for [Olaf Explains](https://twitter.com/olafexplains), a unique and fully automated Twitter / X account that provides daily insights into historical events, narrated by none other than Olaf Scholz, the German Chancellor.
+Welcome to the GitHub repository for [Olaf Explains](https://twitter.com/olafexplains), a unique and fully automated Twitter account that provides daily insights into historical events, narrated by none other than Olaf Scholz, the German Chancellor.
 
 ![Example image](https://d39ob9hwkmfin1.cloudfront.net/80141319-1ef5-4611-9b18-0614bd0110f8.png?Expires=4070908800&Key-Pair-Id=K1J9Z1M14GSH74&Signature=sC9aF3QdiEBadr2LBcTteIRAVI7Lk0euqrSjxQ1MbL83iez~q77LKVCXbJsDlD6LtWiCK4u41XT3ThF1ZDjE2JPJn28mcOLgVBZd6v3pVaxEh8eIHLaRtagbvehefIPSa~NHHuaTpRgBPpbMkr1IUQbJg48OYbKxkuS-lSUcfwMrNBMuMW~BAlFf7YVZhOCe8pqrktNZBmZvwu03ODlb~0dHak~rpqxALjSgvobbNznF3TaYQ59vjnk3ARkixHgoF--Z~LLoUH1MXjrXxw99gDkLdN6yurHf9ZBDzPmKRNvGMD7~eReTXPdZkiFgQ-YipFTnwcN4GMaUmW6KO7K2qA__)
 
@@ -20,9 +20,9 @@ When conceptualizing Olaf Explains, a tool was needed that could handle multiple
 
 Teampilot, however, offered a more holistic and streamlined solution. With Teampilot's single "launchpad", all these tasks were combined into one cohesive workflow. This made the development process not only more manageable but also more efficient.
 
-## Get the Launchpad
+## Want to Run Your Own Automated Twitter Bot?
 
-Unfortunately, the Teampilot launchpad used in this project cannot be directly copied. If you're interested in getting the launchpad or need help in creating your own, please don't hesitate to send me a [direct message on Twitter](https://twitter.com/paukraft).
+Currently, the Teampilot launchpad used in this project cannot be directly copied. If you're interested in running your own automated Twitter bot or need help setting up a similar project, please don't hesitate to send me a [direct message on Twitter](https://twitter.com/paukraft).
 
 ## Contributing
 
