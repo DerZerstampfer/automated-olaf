@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for [Olaf Explains](https://twitter.com/olafexplains), a unique and fully automated Twitter account that provides daily insights into historical events, narrated by none other than Olaf Scholz, the German Chancellor.
 
-![Example image](https://d39ob9hwkmfin1.cloudfront.net/80141319-1ef5-4611-9b18-0614bd0110f8.png?Expires=4070908800&Key-Pair-Id=K1J9Z1M14GSH74&Signature=sC9aF3QdiEBadr2LBcTteIRAVI7Lk0euqrSjxQ1MbL83iez~q77LKVCXbJsDlD6LtWiCK4u41XT3ThF1ZDjE2JPJn28mcOLgVBZd6v3pVaxEh8eIHLaRtagbvehefIPSa~NHHuaTpRgBPpbMkr1IUQbJg48OYbKxkuS-lSUcfwMrNBMuMW~BAlFf7YVZhOCe8pqrktNZBmZvwu03ODlb~0dHak~rpqxALjSgvobbNznF3TaYQ59vjnk3ARkixHgoF--Z~LLoUH1MXjrXxw99gDkLdN6yurHf9ZBDzPmKRNvGMD7~eReTXPdZkiFgQ-YipFTnwcN4GMaUmW6KO7K2qA__)
+![9db85b3c-1786-4aa3-9d89-6dd1a7ce00d3](https://github.com/DerZerstampfer/automated-olaf/assets/51781549/53c703f3-75a2-4c74-ac73-0e2720f86c18)
 
 ## How it works
 
