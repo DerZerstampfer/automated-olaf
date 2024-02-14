@@ -37,7 +37,7 @@ export const handler = ApiHandler(async (_evt) => {
         }),
       })
       .describe(
-        "threadTweets should be an array of tweets each max 280 chars long, so split it up"
+        "threadTweets should be an array of tweets each max 280 chars long but min 200 chars long, so split it up"
       ),
     cacheTtlSeconds: 60, // 1 minute
   });

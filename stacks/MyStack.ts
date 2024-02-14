@@ -76,7 +76,7 @@ export function API({ stack }: StackContext) {
     job: {
       function: {
         handler: "packages/functions/src/tweet.handler",
-        timeout: "5 minute",
+        timeout: "10 minute",
         bind: binds,
       },
     },
